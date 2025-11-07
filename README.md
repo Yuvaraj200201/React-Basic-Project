@@ -42,4 +42,7 @@ It shoecase a slrrk homepage, navigation, and displaying user data, latest news 
 ├── 📄 tailwind.config.js  
 └── 📄 vite.config.js 
 
-[Live Demo](https://yuvaraj200201.github.io/React-Basic-Project/)
+## ***Clone the repository***
+```bash
+git clone  https://github.com/Yuvaraj200201/React-Basic-Project
+
