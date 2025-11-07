@@ -40,4 +40,6 @@ It shoecase a slrrk homepage, navigation, and displaying user data, latest news 
 ├── ⚙️ package.json  
 ├── 📄 postcss.config.js  
 ├── 📄 tailwind.config.js  
-└── 📄 vite.config.js  
+└── 📄 vite.config.js 
+
+[Live Demo](https://yuvaraj200201.github.io/React-Basic-Project/)
